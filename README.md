@@ -4,7 +4,7 @@ This is a personal website created to showcase my portfolio, skills, and contact
 
 ## Features
 
-- Home page with introduction and profile picture
+- Home page with introduction
 - Portfolio section displaying projects with descriptions and links
 - Skills section highlighting technical abilities
 - Contact form integrated with EmailJS for easy communication
